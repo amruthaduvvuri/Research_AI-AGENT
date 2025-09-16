@@ -7,7 +7,7 @@ It helps you research any topic by combining LLM reasoning with external tools (
 
 ## ✨ Features
 - 🔍 **Automated Research** – Ask any question, the agent fetches and summarizes relevant information.  
-- 📚 **Tool-augmented** – Uses custom tools (`search_tool`, `wiki_tool`, `save_tool`) for better accuracy.  
+- 📚 **Tool-augmented** - Uses custom tools (`search_tool`, `wiki_tool`, `save_tool`) for better accuracy.  
 - 📊 **Structured Output** – Returns results as a validated `Pydantic` model with:
   - Topic  
   - Summary  
